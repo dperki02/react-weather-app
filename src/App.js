@@ -13,7 +13,7 @@ export default function App() {
             href="https://www.shecodes.io/"
             target="_blank"
             rel="noopener noreferrer">
-            SheCodes
+            Dana Paulette Perkins
           </a>{" "}
           and is{" "}
           <a
