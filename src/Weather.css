@@ -36,7 +36,11 @@
 .Weather img{
     height: 64px;
     width: 64px;
-    margin-right: 10px;
+    display: inline-block;
+}
+
+.Weather canvas{
+    margin-top: 10px;
     display: inline-block;
 }
 
