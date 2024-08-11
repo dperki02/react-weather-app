@@ -40,8 +40,10 @@
 }
 
 .Weather canvas{
-    margin-top: 10px;
+    
     display: inline-block;
+    height: 64px;
+    width: 64px;
 }
 
 .Weather .temperature {    
